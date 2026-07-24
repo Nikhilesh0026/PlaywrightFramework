@@ -16,8 +16,15 @@ public class sample {
         obj.multiply(5, 10);
     }
 
+
     public void multiply(int a, int b) {
         System.out.println("The multiplication of two numbers is: " + (a * b));
 
     }
+
+    public void run() {
+        System.out.println("This is a sample method.");
+
+
+}
 }
